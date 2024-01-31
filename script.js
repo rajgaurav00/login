@@ -19,9 +19,22 @@
 //     console.log(a)
 // } 
 // while loop _____
-var a = 4
-while(a<20;){
-    a++;
-}
+// var a = 4
+// while(a<20;){
+//     a++;
+// }
+
+// truthy or falsy --------------------------
+// falsy - 0  false undfined null NaN document.all
+
+
+// if(0){
+//     console.log("heyyy")
+// }
+// else{
+//     console.log("hello")
+// }
+
+
 
 
